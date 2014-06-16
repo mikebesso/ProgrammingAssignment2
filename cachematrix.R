@@ -385,7 +385,8 @@ test <- function(){
     
     testRange(1, 10)
     testRange(11, 100)
-    testRange(101, 500)
+    testRange(101, 200)
+    testRange(201, 500)
 }
     
 
